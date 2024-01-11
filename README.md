@@ -52,4 +52,3 @@
 - **LinkedIn:** [linkedin.com/in/rohitkr25/](https://www.linkedin.com/in/rohitkr25/)
 - **LeetCode:** [leetcode.com/Rohitkr2510/](https://leetcode.com/Rohitkr2510/)
 
-Feel free to customize this template according to your preferences and add any additional sections or details you find relevant.
